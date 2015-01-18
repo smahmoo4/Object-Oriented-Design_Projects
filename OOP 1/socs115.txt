@@ -1,0 +1,28 @@
+Germany
+6
+Greis	Michael	34	0.53	p	track and field
+Hettich	Georg	27	0.77	w	equestrian
+Glagow	Martina	23	0.14	q	swimming
+Fischer	Sven	36	1	q	water polo
+Otto	Sylke	51	0.36	q	diving
+Hanrath	Hans	52	77.3	k	team sports
+US
+4
+Ligety	Billy	21	2.3	q	swimming
+Dawson	Toby	27	3.7	h	open water
+Anderson	Seth	31	6.33	q	water polo
+Jackson	Lindsey	23	9.3	p	track and field
+Canada
+6
+Gibson	Duff	50	0.43	p	track and field
+Pain	Jeff	39	0.25	p	track and field
+Maltais	Dominique	26	1.8	q	swimming
+Klassen	Cindy	33	5.32	q	diving
+Crawford	Chandra	42	0.35	h	open water
+Groves	Kristina	21	4.5	q	diving
+Russia
+3
+Sidko	Alena	40	0.78	w	equestrian
+Slutskaya	Irina	26	9.56	p	track and field
+Annotolia	Viktor	18	8.33	k	team sports
+END_OF_FILE
